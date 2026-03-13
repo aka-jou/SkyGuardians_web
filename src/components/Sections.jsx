@@ -5,7 +5,7 @@ import {
   Send, Menu, X, Terminal, Monitor,
   Compass, BarChart3, ChevronRight, UserCircle2, Briefcase, Settings
 } from 'lucide-react';
-import { GlassCard, Chip } from './ui';
+import { GlassCard, Chip } from './Ui';
 
 export const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
